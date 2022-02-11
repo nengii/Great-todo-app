@@ -1,6 +1,6 @@
-# great_todo_app
+# Great_todo_app
 
-A new Flutter project.
+An implementation of a Todo app in Flutter
 
 ## Getting Started
 
